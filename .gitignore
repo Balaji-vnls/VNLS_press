@@ -1,0 +1,14 @@
+# Large ML files
+*.pt
+*.pkl
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
