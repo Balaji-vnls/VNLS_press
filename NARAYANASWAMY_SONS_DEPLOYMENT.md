@@ -8,13 +8,13 @@
 # **http://localhost:3001**
 
 **🔧 API Backend:**
-# **http://localhost:8000**
+# **https://vnls-press-backend.onrender.com**
 
 **📖 API Documentation:**
-# **http://localhost:8000/docs**
+# **https://vnls-press-backend.onrender.com/docs**
 
 **📊 System Status:**
-# **http://localhost:8000/api/status**
+# **https://vnls-press-backend.onrender.com/api/status**
 
 ---
 
@@ -73,7 +73,7 @@
    - Get AI-powered results
 
 ### 4. **API Access:**
-   - Visit **http://localhost:8000/docs**
+   - Visit **https://vnls-press-backend.onrender.com/docs**
    - Test all endpoints interactively
    - See live data responses
 

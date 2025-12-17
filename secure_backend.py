@@ -656,8 +656,8 @@ if __name__ == "__main__":
     logger.info("🔑 News API Key: " + ("✅ Configured" if NEWS_API_KEY else "❌ Missing"))
     logger.info("🔑 GNews API Key: " + ("✅ Configured" if GNEWS_API_KEY else "❌ Missing"))
     logger.info("🔑 Supabase: " + ("✅ Configured" if SUPABASE_URL and SUPABASE_KEY else "❌ Missing"))
-    logger.info("🌐 Server will be available at: http://localhost:8000")
-    logger.info("📖 API Documentation: http://localhost:8000/docs")
+    logger.info("🌐 Server will be available at: https://vnls-press-backend.onrender.com")
+    logger.info("📖 API Documentation: https://vnls-press-backend.onrender.com/docs")
     
     uvicorn.run(
         "secure_backend:app",

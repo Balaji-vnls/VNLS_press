@@ -67,10 +67,10 @@
 # **http://localhost:3001**
 
 ### **🔧 SECURE API BACKEND:**
-# **http://localhost:8000**
+# **https://vnls-press-backend.onrender.com**
 
 ### **📖 API DOCUMENTATION:**
-# **http://localhost:8000/docs**
+# **https://vnls-press-backend.onrender.com/docs**
 
 ---
 

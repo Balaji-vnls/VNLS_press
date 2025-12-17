@@ -65,8 +65,8 @@ def start_server():
     """Start the FastAPI server"""
     try:
         logger.info("Starting News Recommendation System backend...")
-        logger.info("Server will be available at: http://localhost:8000")
-        logger.info("API documentation: http://localhost:8000/docs")
+        logger.info("Server will be available at: https://vnls-press-backend.onrender.com")
+        logger.info("API documentation: https://vnls-press-backend.onrender.com/docs")
         
         # Change to backend directory
         os.chdir("backend")

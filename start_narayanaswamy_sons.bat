@@ -63,9 +63,9 @@ echo ✅ NARAYANASWAMY SONS News Intelligence Platform Started!
 echo.
 echo 🌐 Application URLs:
 echo    - Main Application: http://localhost:3001
-echo    - Secure API Backend: http://localhost:8000
-echo    - API Documentation: http://localhost:8000/docs
-echo    - System Status: http://localhost:8000/api/status
+echo    - Secure API Backend: https://vnls-press-backend.onrender.com
+echo    - API Documentation: https://vnls-press-backend.onrender.com/docs
+echo    - System Status: https://vnls-press-backend.onrender.com/api/status
 echo.
 echo 🔐 Security Features:
 echo    - Supabase Authentication with Email Verification

@@ -76,10 +76,10 @@
 ## 🚀 **DEPLOYMENT STATUS**
 
 ### **🔴 LIVE SERVICES:**
-- **Backend**: http://localhost:8000 (Secure API with 33 live articles)
+- **Backend**: https://vnls-press-backend.onrender.com (Secure API with 33 live articles)
 - **Frontend**: http://localhost:3001 (React app with full functionality)
-- **Documentation**: http://localhost:8000/docs (Interactive API docs)
-- **Status**: http://localhost:8000/api/status (System health check)
+- **Documentation**: https://vnls-press-backend.onrender.com/docs (Interactive API docs)
+- **Status**: https://vnls-press-backend.onrender.com/api/status (System health check)
 
 ### **📊 CURRENT METRICS:**
 - **Live Articles**: 33 from NewsAPI + GNews

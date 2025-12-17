@@ -103,7 +103,7 @@ const DebugPanel = () => {
         <h4 className="text-sm font-medium text-gray-700 mb-2">System Info</h4>
         <div className="text-xs text-gray-600 space-y-1">
           <div>Frontend: http://localhost:3001</div>
-          <div>Backend: http://localhost:8000</div>
+          <div>Backend: https://vnls-press-backend.onrender.com</div>
           <div>Company: Narayanaswamy Sons</div>
         </div>
       </div>

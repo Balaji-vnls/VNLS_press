@@ -55,8 +55,8 @@ echo ✅ Development servers started!
 echo.
 echo 🌐 Application URLs:
 echo    - Frontend: http://localhost:3000
-echo    - Backend API: http://localhost:8000
-echo    - API Docs: http://localhost:8000/docs
+echo    - Backend API: https://vnls-press-backend.onrender.com
+echo    - API Docs: https://vnls-press-backend.onrender.com/docs
 echo.
 echo 📝 Check the opened terminal windows for logs
 echo 🛑 Close the terminal windows to stop the servers

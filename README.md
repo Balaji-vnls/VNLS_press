@@ -64,7 +64,7 @@ cp .env.example .env
 ```bash
 python run_backend.py
 ```
-Backend will be available at: http://localhost:8000
+Backend will be available at: https://vnls-press-backend.onrender.com
 
 ### 5. Frontend Setup
 ```bash
@@ -221,8 +221,8 @@ npm test
 ## 📚 API Documentation
 
 Once the backend is running, visit:
-- **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
+- **Swagger UI**: https://vnls-press-backend.onrender.com/docs
+- **ReDoc**: https://vnls-press-backend.onrender.com/redoc
 
 ## 🤝 Contributing
 

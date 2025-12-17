@@ -151,15 +151,15 @@
 ## 📊 **7. SYSTEM STATUS TESTING:**
 
 ### **Check Backend Status:**
-1. Visit http://localhost:8000/api/status
+1. Visit https://vnls-press-backend.onrender.com/api/status
 2. ✅ **Expected**: Shows system operational with security features
 
 ### **Check API Documentation:**
-1. Visit http://localhost:8000/docs
+1. Visit https://vnls-press-backend.onrender.com/docs
 2. ✅ **Expected**: Shows interactive API documentation
 
 ### **Check Health Endpoint:**
-1. Visit http://localhost:8000/health
+1. Visit https://vnls-press-backend.onrender.com/health
 2. ✅ **Expected**: Shows healthy status with security features
 
 ---
